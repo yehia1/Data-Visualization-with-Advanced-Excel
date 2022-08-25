@@ -1,0 +1,8 @@
+- Differentiate between Scenario Analysis, Sensitivity Analysis and Simulation
+- Identify tools in Excel that perform “what if” analyses when building spreadsheet models
+- Determine what variable is needed to achieve required end results using Goal Seek
+- Determine the optimal solution to a problem using Solver
+- Recognize different values for variables and compare results using Scenario Manager
+- Recognize the range of outcomes, for a given range of a variable input using a one-way data table
+- Determine the range of outcomes, under two variables using a two-way data table
+- Simulate multiple outcomes for a given objective using Excel
