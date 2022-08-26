@@ -1,0 +1,1 @@
+Create the following types of charts in Excel: Bar or column chart, combination line and bar chart, gantt chart, heatmap and 100% stacked chart
